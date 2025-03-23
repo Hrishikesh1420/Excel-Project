@@ -1,2 +1,2 @@
 # Excel-Project
-An excel project i did while learning about Data analytics
+This project was given to me by skillovilla where i had been given transaction datasheet and i had to provide different level of analysis like order level, completion rate etc on the given datasheet and also to note down all the insights and observations from the analysis, so after collecting the data i analysed it created various pivot tables and pivot charts for each of asked level of analysis and also secured a score of 100/100
